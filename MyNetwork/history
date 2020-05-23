@@ -1,0 +1,6 @@
+eth.accounts
+eth.blockNumber
+miner.start()
+miner.stop()
+eth.blockNumber
+eth.getBalance("0x731ce05c29e7bfd5b3f9a30d274cf2da09130b3a")
